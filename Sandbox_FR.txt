@@ -1,4 +1,4 @@
-Sandbox_EN = {
+Sandbox_FR = {
     Sandbox_ColorEnum_option1  = "Désactiver",
     Sandbox_ColorEnum_option2  = "Noir",
     Sandbox_ColorEnum_option3  = "Blanc",
