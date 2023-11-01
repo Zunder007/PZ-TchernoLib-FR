@@ -1,0 +1,14 @@
+IGUI_FR = {
+    IGUI_FakeBook_Open = "Ce n'est pas un livre, c'est une boîte !",
+    IGUI_Spawn_InvestigateStart = "Ce n'est pas censé être ici...",
+    IGUI_Spawn_Investigate = "J'ai trouvé un %1!",
+    IGUI_Spawn_Tooltip1 = "Quelque chose est louche...",
+    IGUI_Spawn_Tooltip2 = "Cela semble étrange ?!",
+    IGUI_Spawn_Tooltip3 = "C'est inhabituel !",
+    IGUI_PlayerText_CalloutZ1New = "RHOAARR!",
+    IGUI_PlayerText_CalloutZ2New = "GAAAAAAAH!",
+    IGUI_PlayerText_CalloutZ3New = "UUURRGH!",
+    IGUI_PlayerText_CalloutZ1Sneak = "rrr..",
+    IGUI_PlayerText_CalloutZ2Sneak = "shh..",
+    IGUI_PlayerText_CalloutZ3Sneak = "krr..",
+}
